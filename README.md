@@ -76,6 +76,11 @@ I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
 <br><br>
 </div>
 
+-----
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
