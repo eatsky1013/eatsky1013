@@ -7,7 +7,7 @@
 I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
 <br>I have much rich experience plateforms and blockchain projects development.
 </h3>
-<br clear="both">
+<br clear="both">  
 
 ###
 
