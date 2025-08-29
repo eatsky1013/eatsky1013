@@ -11,14 +11,21 @@ I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
 
 ###
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StrongBlue0703&locale=en&hide_title=false&hide=html,MDX,css,PHP,Javascript,makefile,Batchfile,handlebars,shell&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/prince777-k/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=prince777-k&show_icons=true&theme=radical&card_width=350" />
+  </a>
+  <a href="https://github.com/prince777-k/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=prince777-k&layout=compact&langs_count=8&card_width=350&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince777-k&&theme=tokyonight" alt=""/>
+</p>
 
 ###
 
 # 💻 My Main Skills:
-<h2>Skills</h2>
 <br/>
 <table align="center">
 <tr>
@@ -138,17 +145,7 @@ I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
 </table>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/prince777-k/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=prince777-k&show_icons=true&theme=radical&card_width=350" />
-  </a>
-  <a href="https://github.com/prince777-k/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=prince777-k&layout=compact&langs_count=8&card_width=350&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince777-k&&theme=tokyonight" alt=""/>
-</p>
+
 
 <!-- <div align="center">
 
