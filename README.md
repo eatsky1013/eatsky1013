@@ -61,12 +61,13 @@ I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
     </td>
-    <td align="center" width="90">
+    
+  </tr>
+  <tr>
+     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React Native
     </td>
-  </tr>
-  <tr>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
       <br>Nuxt.js
@@ -90,6 +91,10 @@ I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
       <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
     </td>
   </tr>
   <tr>
@@ -125,10 +130,7 @@ I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
+   
   </tr>
 </table>
 <br/>
