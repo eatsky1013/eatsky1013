@@ -53,9 +53,6 @@ I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
     </td>
-    
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
@@ -68,7 +65,9 @@ I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React Native
     </td>
-    <td align="center" width="90">
+  </tr>
+  <tr>
+     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
       <br>Nuxt.js
     </td>
