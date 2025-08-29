@@ -6,7 +6,6 @@
 <h3 align="center">
 I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
 <br>I have much rich experience plateforms and blockchain projects development.
-I have strong experience in the wallet, bot and so on
 </h3>
 <br clear="both">  
 
