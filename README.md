@@ -106,17 +106,4 @@ I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 
-<h2 align="center">Coding is my life! 🌍✨</h2>
 
-- 👋 Hi, I’m @eatsky1013
-- 👀 I’m interested in blockchain and web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-eatsky1013/eatsky1013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
