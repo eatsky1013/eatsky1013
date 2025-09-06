@@ -9,20 +9,6 @@ I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
 </h3>
 <br clear="both">  
 
-##
-
-<p align="center">
-  <a href="https://github.com/eatsky1013/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=eatsky1013&show_icons=true&theme=radical&card_width=350" />
-  </a>
-  <a href="https://github.com/eatsky1013/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=eatsky1013&layout=compact&langs_count=8&card_width=350&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eatsky1013&&theme=tokyonight" alt=""/>
-</p>
-
 ###
 
 # 💻 My Main Skills:
